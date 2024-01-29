@@ -25,7 +25,7 @@ Performance-focused software developer motivated about technology and a strong b
 
 <h2> How to reach me : </h2>
  <p id="badges" align="center">
-  <a href="https://www.linkedin.com/in/achraf-ainhajar-847bbb199/">
+  <a href="https://www.linkedin.com/in/achraf-ainhajar-450290200/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/achrafainhajar">
