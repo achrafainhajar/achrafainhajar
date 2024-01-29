@@ -38,5 +38,5 @@ Performance-focused software developer motivated about technology and a strong b
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aainhaja&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=achrafainhajar&style=flat-square&color=blue" alt=""/>
 </div>
