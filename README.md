@@ -18,9 +18,9 @@ Performance-focused software developer motivated about technology and a strong b
 
 <img src="https://badge.mediaplus.ma/kettlebells/aainhaja" alt="aainhaja's 42 stats" />
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aainhaja&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=achrafainhajar&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aainhaja&langs_count=15&layout=compact&theme=highcontrast)](https://github.com/aainhaja)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achrafainhajar&langs_count=15&layout=compact&theme=highcontrast)](https://github.com/achrafainhajar)
 
 
 <h2> How to reach me : </h2>
